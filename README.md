@@ -25,7 +25,7 @@ Criadora do IG **Colinha Tech** | Facilitando o seu aprendizado! 💜
  
 </div>
 
-![Snake animation](https://github.com/patiberzin-dev/patiberzin-dev/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/patiberzin-dev/patiberzin-dev/output/github-contribution-grid-snake.svg)
 
 💜 **Cola comigo and let's grow together!** 🚀✨
 
