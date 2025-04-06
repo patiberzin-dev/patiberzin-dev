@@ -22,10 +22,10 @@ Criadora do IG **Colinha Tech** | Facilitando o seu aprendizado! 💜
   <a href="https://instagram.com/colinhatech" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:colinhatech@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/patriciaberzin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-![Snake animation](https://github.com/patiberzin-dev/patiberzin-dev/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+![Snake animation](https://github.com/patiberzin-dev/patiberzin-dev/blob/output/github-contribution-grid-snake.svg)
 
 💜 **Cola comigo and let's grow together!** 🚀✨
 
