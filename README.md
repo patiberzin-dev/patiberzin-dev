@@ -1,7 +1,7 @@
 ## 👩‍💻 Olá, eu sou a Pati Berzin! 
 
 ### 🚀 Dev Frontend & UX/UI Designer  
-Criadora do IG **Colinha Tech** | Facilitando o seu aprendizado! 💜  
+Criadora do IG **Colinha Frontend** | Facilitando o seu aprendizado! 💜  
 
 <div>
   <a href="https://github.com/patiberzin-dev">
